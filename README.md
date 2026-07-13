@@ -134,3 +134,56 @@ Interesado en desarrollo Backend con Python, FastAPI, SQL y Cloud Computing.
 ## 📄 Licencia
 
 Este proyecto es de uso educativo y forma parte de mi portafolio profesional.
+
+
+## 📅 Roadmap del proyecto
+
+### Sprint 1 - Configuración inicial
+
+- [ ] Crear estructura del proyecto
+- [ ] Configurar entorno virtual
+- [ ] Configurar FastAPI
+- [ ] Configurar SQLAlchemy
+- [ ] Configurar MySQL
+- [ ] Configurar variables de entorno
+- [ ] Primer endpoint
+
+### Sprint 2 - Autenticación
+
+- [ ] Registro de usuarios
+- [ ] Inicio de sesión
+- [ ] JWT
+- [ ] Roles
+- [ ] Protección de rutas
+
+### Sprint 3 - Técnicos
+
+- [ ] CRUD de técnicos
+- [ ] Validaciones
+- [ ] Búsquedas
+
+### Sprint 4 - Equipos
+
+- [ ] CRUD de equipos
+- [ ] Relación con clientes
+- [ ] Historial
+
+### Sprint 5 - Calibraciones
+
+- [ ] CRUD de calibraciones
+- [ ] Asignación de técnicos
+- [ ] Estados
+
+### Sprint 6 - Reportes
+
+- [ ] Generación de PDF
+- [ ] Descarga
+- [ ] Historial
+
+### Sprint 7 - Calidad
+
+- [ ] Docker
+- [ ] Pytest
+- [ ] Logging
+- [ ] GitHub Actions
+- [ ] Documentación completa
